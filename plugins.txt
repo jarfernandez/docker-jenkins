@@ -4,6 +4,7 @@ ant
 antisamy-markup-formatter
 apache-httpcomponents-client-4-api
 authentication-tokens
+blueocean
 branch-api
 build-monitor-plugin
 build-pipeline-plugin
